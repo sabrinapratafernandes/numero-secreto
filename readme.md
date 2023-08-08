@@ -6,6 +6,7 @@ Em andamento.
 
 ### Conteúdo | Content
 
+- Utilização do Web Speech API
 - Funções build-in do JavaScript
 - Reconhecimento de voz com JavaScript
 - Manipulação de dados, eventos e elementos com JavaScrip

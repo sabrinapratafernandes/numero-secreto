@@ -32,6 +32,11 @@ h3 {
     margin-top: 20px;
 }
 
+img {
+    border-radius: 50%;
+    width: 160px;
+}
+
 .mensagem {
     display: flex;
     flex-direction: column;
@@ -45,4 +50,12 @@ h3 {
     font-size: 4em;
     padding: 10px;
     margin: 20px;
+}
+
+.btn-jogar {
+    padding: 8px 15px;
+    border: 0;
+    background: var(--primary-color);
+    border-radius: 5px;
+    margin-top: 20px;
 }
